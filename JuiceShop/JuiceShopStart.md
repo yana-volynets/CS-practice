@@ -38,7 +38,7 @@
 * **Результат:** Має з'явитися вікно з повідомленням, після чого челендж буде зараховано.
 ![JuiceShop_DOMXSS](image5.png)
 * **Додатково** робимо відправку пейлоада
-![JuiceShop_DOMXSS_Payload](JuiceShop_DOMXSS_Payload.png)
+![JuiceShop_DOMXSS_Payload](image6.png)
 
 #### Витік конфіденційних даних (Sensitive Data Exposure)
 * **Завдання:** Знайти файл, який не має бути публічним.
