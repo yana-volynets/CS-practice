@@ -32,7 +32,7 @@
 
 #### Атака на пошуковий рядок (DOM XSS)
 * **Завдання:** Виконати XSS-атаку.
-![JuiceShop_DOMXSS_task.png](JuiceShop_DOMXSS_task.png)
+![JuiceShop_DOMXSS_task.png](image4.png)
 * **Як пройти:** У полі пошуку (Search) вгорі сторінки введіть скрипт:
     `<iframe src="javascript:alert('xss')">`
 * **Результат:** Має з'явитися вікно з повідомленням, після чого челендж буде зараховано.
