@@ -13,7 +13,7 @@
 ![dockerrun](image1.png)
 
 3. Відкрийте браузер за адресою: **http://localhost:3000**
-![first_start](JuiceShop_first_start.png)
+![first_start](image2.png)
 
 
 ### 2. Перший крок: Пошук дошки результатів (Score Board)
