@@ -53,7 +53,7 @@
 * **Як пройти:** Перейдіть до директорії **http://localhost:3000/ftp**. Там зазвичай знаходяться бекапи або `.md` файли. 
 * **Підказка:** Спробуйте завантажити файли, які сервер намагається блокувати, використовуючи обхід фільтрів (наприклад, додаючи `%2500.md` до назви).
 
-![JuiceShop_ftp_0poison.png](JuiceShop_ftp_0poison.png)
+![JuiceShop_ftp_0poison.png](image10.png)
 або якийсь інший файл:
 ![JuiceShop_ftp_0poison2](JuiceShop_ftp_0poison2.png)
 
