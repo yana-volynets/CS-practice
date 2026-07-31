@@ -36,7 +36,7 @@
 * **Як пройти:** У полі пошуку (Search) вгорі сторінки введіть скрипт:
     `<iframe src="javascript:alert('xss')">`
 * **Результат:** Має з'явитися вікно з повідомленням, після чого челендж буде зараховано.
-![JuiceShop_DOMXSS](JuiceShop_DOMXSS.png)
+![JuiceShop_DOMXSS](image5.png)
 * **Додатково** робимо відправку пейлоада
 ![JuiceShop_DOMXSS_Payload](JuiceShop_DOMXSS_Payload.png)
 
