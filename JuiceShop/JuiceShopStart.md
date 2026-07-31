@@ -10,7 +10,7 @@
 2. Виконайте команду в терміналі:
     `docker run --rm -p 3000:3000 bkimminich/juice-shop`
 Маємо наступний результат:
-![dockerrun](JuiceShop_docker_run.png)
+![dockerrun](image1.png)
 
 3. Відкрийте браузер за адресою: **http://localhost:3000**
 ![first_start](JuiceShop_first_start.png)
