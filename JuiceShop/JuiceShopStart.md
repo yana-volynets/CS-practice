@@ -54,11 +54,10 @@
 * **Підказка:** Спробуйте завантажити файли, які сервер намагається блокувати, використовуючи обхід фільтрів (наприклад, додаючи `%2500.md` до назви).
 
 ![JuiceShop_ftp_0poison.png](image10.png)
-або якийсь інший файл:
-![JuiceShop_ftp_0poison2](JuiceShop_ftp_0poison2.png)
+або якийсь інший файл
 
 Як результат - пройшли ще декілька завдань:
-![JuiceShop_ftp_results](JuiceShop_ftp_results.png)
+![JuiceShop_ftp_results](image11.png)
 
 ### 4. Рівень 2: Злам акаунтів (Authentication)
 
@@ -70,7 +69,7 @@
 3. Введіть будь-який пароль.
 
 Має виглядати наступним чином:
-![JuiceShop_AdminLoginSQLi](JuiceShop_AdminLoginSQLi.png)
+![JuiceShop_AdminLoginSQLi](image12.png)
 
 **Чому це працює?**
 Запит до бази даних виглядає приблизно так:
