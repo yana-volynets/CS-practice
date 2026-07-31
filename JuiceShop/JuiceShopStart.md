@@ -43,9 +43,9 @@
 #### Витік конфіденційних даних (Sensitive Data Exposure)
 * **Завдання:** Знайти файл, який не має бути публічним.
 Спочатку шукаємо відкриті директорії, але отримуємо помилку:
-![JuiceShop_gobuster_fail](JuiceShop_gobuster_fail.png)
+![JuiceShop_gobuster_fail](image7.png)
 Вносимо зміни, які нам рекомендовано, та знову запускаємо сканування:
-![JuiceShop_gobuster_ok](JuiceShop_gobuster_ok.png)
+![JuiceShop_gobuster_ok](image8.png)
 Випадково :-) проходимо *Security misconfiguration*, зламавши *ДжусіШоп*:
 ![JuiceShop_ErrorHandling](JuiceShop_ErrorHandling.png)
 Перезпускаємо контейнер та йдемо до знайденого FTP:
