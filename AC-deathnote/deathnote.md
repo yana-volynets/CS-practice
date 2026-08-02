@@ -80,13 +80,13 @@ sudo apt install dirsearch
 ```
 
 * Заходимо на сторінку з `/robots.txt`, нас зустрічає текст, який каже, що нам потрібно зайти на `/important.jpg`.
-![alt text](./DN_src/image-3.png)
+![alt text](./image4.png)
 * Але не знайшовши там нічого, використовуємо команду:
 
 ```bash
 curl http://deathnote.vuln/important.jpg
 ```
-![alt text](./DN_src/image-4.png)
+![alt text](./image5.png)
 
 
 * Це команда — інструмент для роботи з HTTP(S)-запитами, дозволяє завантажити вміст за вказаним URL.
