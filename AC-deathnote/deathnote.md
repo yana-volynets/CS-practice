@@ -156,7 +156,7 @@ case-file.txt
 password: kiraisevil
 
 ```
-![alt text](./image10.png)
+![alt text](./image11.png)
 
 ### 8. Переходимо на юзера kira командою:
 
